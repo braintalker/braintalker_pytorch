@@ -1,0 +1,23 @@
+{
+  "trainset_folder": "path_trainset_folder",
+  "testset_folder" : "path_testset_folder",
+
+  "channel": "number of ecog channels",
+  "result_folder": "results",
+  "experiment_folder": "braintalker",
+  "gpu": 1,
+
+  "sampling_rate_ecog": 2000,
+  "sampling_rate_wav": 16000, 
+  "nmel": 13, 
+
+  "n_epoch": 5000,
+  "iteration": 100000,
+  "train_iteration": 1,
+  "val_iteration": 1,
+  "save_iteration": 200,
+  "batch_size": 1,
+  "learning_rate":0.00005,
+  "alpha": 1,
+  "beta": 1
+}
