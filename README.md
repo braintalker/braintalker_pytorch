@@ -1,5 +1,5 @@
 # BrainTalker: Low-Resource Brain-to-Speech Synthesis with Transfer Learning using Wav2Vec 2.0
-Official Pytorch implementation of BrainTalker that submitted to the 2023 INTERSPEECH.
+Official Pytorch implementation of BrainTalker that submitted to the BHI 2023.
 <br>
 
 ## Training :
